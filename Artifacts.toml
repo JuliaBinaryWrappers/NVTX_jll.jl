@@ -6,7 +6,7 @@ os = "linux"
 
     [[NVTX.download]]
     sha256 = "27f10c5a2facc70534885483351a09f53f039ed0967a4e2accb41c4f05686929"
-    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+0/NVTX.v3.1.0.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+1/NVTX.v3.1.0.aarch64-linux-gnu.tar.gz"
 [[NVTX]]
 arch = "powerpc64le"
 git-tree-sha1 = "9e6d1d6d87375d928ef133882517df2d1eaf05bc"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[NVTX.download]]
     sha256 = "ffd9f3cddce3892de6e81faff905780e3dea9027b07349bd79de5b59c7c94d74"
-    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+0/NVTX.v3.1.0.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+1/NVTX.v3.1.0.powerpc64le-linux-gnu.tar.gz"
 [[NVTX]]
 arch = "x86_64"
 git-tree-sha1 = "a6b39fe9a525831ff65b3bc0f0a3b3f9e5dca9b5"
@@ -24,7 +24,7 @@ os = "linux"
 
     [[NVTX.download]]
     sha256 = "1d7f07241bd5ec45f1ab753be69e5c8fa3bdc2ffb9adac6e4da7c8301b8b74a0"
-    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+0/NVTX.v3.1.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+1/NVTX.v3.1.0.x86_64-linux-gnu.tar.gz"
 [[NVTX]]
 arch = "x86_64"
 git-tree-sha1 = "a0c62a3735619ee6db8a35fec23d8c4c76b02b02"
@@ -32,4 +32,4 @@ os = "windows"
 
     [[NVTX.download]]
     sha256 = "19f109234fa6e6b7a8d12348527f89962742a6b9ea691a79deaea9b22ecbf6ef"
-    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+0/NVTX.v3.1.0.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/NVTX_jll.jl/releases/download/NVTX-v3.1.0+1/NVTX.v3.1.0.x86_64-w64-mingw32.tar.gz"
